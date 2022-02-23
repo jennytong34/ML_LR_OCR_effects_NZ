@@ -10,6 +10,7 @@ Welcome!
 
 Update 230222: 
 
-New file: OCR.ipynb
+New file: CPI.ipynb
 
-In the file, you will find coef and R Square of 
+In this file, you will find coef and R Square of the LR Model tested on CPI and OCR data. The figures show that there are positive correlation between OCR and CPI, however, very low Rsquare indicates that LR is not a fit model to train these data. I will update this project with fitter models.
+
