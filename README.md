@@ -7,3 +7,9 @@ It is argued that these changes in OCRs drive economic growth and infrastructure
 This project is aimed at looking at these effects from a quantitative point of views using Linear Regression in Supervised ML. It only acts as a tool for a mere economics student to learn and understand the market and does not exhibit any political opinions as such! :)
 
 Welcome!
+
+Update 230222: 
+
+New file: OCR.ipynb
+
+In the file, you will find coef and R Square of 
